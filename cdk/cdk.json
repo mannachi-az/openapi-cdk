@@ -29,6 +29,6 @@
     "RepositoryBranch": "main",
     "CodestarConnectionArn": "arn:aws:codestar-connections:us-east-2:493167192183:connection/6afb4717-9a15-4287-bd12-142c1876c9cf",
     "CodeArtifactDomain": "ncbopenapi",
-    "CodeArtifactRepository": "ncbopenapi"
+    "CodeArtifactRepository": "ncbopenapi-dev"
   }
 }
